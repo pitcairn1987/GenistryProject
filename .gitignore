@@ -1,0 +1,7 @@
+/build/
+/windows/
+/web/
+/ios/
+
+# Project exclude paths
+/.dart_tool/
