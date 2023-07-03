@@ -16,32 +16,13 @@ class AppWriteService {
 
 
 
- static const String DataBaseID = '63fcc803d9ebf1fb309f';
-  static const String CustomDocumentsTableID = '63fcc817496ce12b9452';
-  static const String RevisionsTableID = '6475ababc75380030118';
-  static const String DictionariesTableID = '634e8bc39c9cd41eee95';
-  static const String endPoint = 'https://api.genistry.pl/v1';
-  static const String projectID = '63fcc7985333af8e4dfa';
-  static const String bucketID = '63fcf5d136cdf2569f8f';
-
-
-
-
-/*
-
-
- static const String DataBaseID = '63d02e6d999b22bb75d3';
- static const String CustomDocumentsTableID = '63d02e7b285559f9d50e';
- static const String RevisionsTableID = '6475ababc75380030118';
- static const String DictionariesTableID = '634e8bc39c9cd41eee95';
- static const String endPoint = 'https://cloud.appwrite.io/v1';
- static const String projectID = '63d0123102a437b647c0';
- static const String bucketID = '63d02f7f90494beb8432';
-
-*/
-
-
-
+ static const String DataBaseID = '*';
+  static const String CustomDocumentsTableID = '*';
+  static const String RevisionsTableID = '*';
+  static const String DictionariesTableID = '*';
+  static const String endPoint = '*';
+  static const String projectID = '*';
+  static const String bucketID = '*';
 
 
 
